@@ -20,7 +20,7 @@ function IntensitySwitch() {
           value="90"
           step="10"
         />
-        <label htmlFor="sunshine">Sunshine</label>
+        <label htmlFor="sunshine">Intesity</label>
       </div>
     </>
   );
